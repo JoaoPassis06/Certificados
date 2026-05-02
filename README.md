@@ -1,2 +1,2 @@
 # Certificados
-Aqui estão meus certificados dos estudos
+Aqui estão meus certificados de estudos
